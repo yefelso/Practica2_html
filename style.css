@@ -60,4 +60,14 @@ body{
     background: #b80f22;
     color: #fff;
     font-size: 18px;
+    border-radius: 20px;
+}
+.login-box a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: darkgray;
+}
+.login-box a:hover{
+    color:#fff;
 }
