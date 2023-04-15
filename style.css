@@ -53,7 +53,7 @@ body{
     color:black;
     font-size: 16px;
 }
-.login-box input[type="submit"]{
+.login-box input[type="button"]{
     border: none;
     outline: none;
     height: 40px;
@@ -62,7 +62,7 @@ body{
     font-size: 18px;
     border-radius: 20px;
 }
-.login-box input:hover[type="submit"]{
+.login-box input:hover[type="button"]{
     background-color: rgb(19, 11, 32);
 }
 .login-box a{
